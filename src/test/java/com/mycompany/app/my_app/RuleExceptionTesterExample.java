@@ -32,5 +32,6 @@ public class RuleExceptionTesterExample {
 	File createdFile = folder.newFile("myfilefile.txt");
 	assertTrue(createdFile.exists());
 	assertTrue(createdFolder.exists());
+	//Kommentar hier
   }
 }
