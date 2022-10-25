@@ -9,7 +9,7 @@
   <version>0.0.1-SNAPSHOT</version>
 
   <name>my-app</name>
-  <!-- FIXME change it to the project's website -->
+  <!-- FIXME change it to the project's website. We edit this part here to cause confusion while merging! -->
   <url>http://www.example.com</url>
 
   <properties>
