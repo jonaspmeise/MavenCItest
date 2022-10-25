@@ -31,9 +31,4 @@ public class CalculatorTest {
     public void thisShouldFail() throws Exception {
     	throw new Exception();
     }
-    
-    @Test
-    public void thisWillFail() {
-    	fail();
-    }
 }
